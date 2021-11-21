@@ -1,0 +1,16 @@
+E:\Projects\testRcomr\bin\Debug\netcoreapp3.1\testRcomr.exe
+E:\Projects\testRcomr\bin\Debug\netcoreapp3.1\testRcomr.deps.json
+E:\Projects\testRcomr\bin\Debug\netcoreapp3.1\testRcomr.runtimeconfig.json
+E:\Projects\testRcomr\bin\Debug\netcoreapp3.1\testRcomr.runtimeconfig.dev.json
+E:\Projects\testRcomr\bin\Debug\netcoreapp3.1\testRcomr.dll
+E:\Projects\testRcomr\bin\Debug\netcoreapp3.1\testRcomr.pdb
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.csproj.GenerateResource.cache
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.AssemblyInfoInputs.cache
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.AssemblyInfo.cs
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.csproj.CoreCompileInputs.cache
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.dll
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.pdb
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.genruntimeconfig.cache
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.MainForm.resources
+E:\Projects\testRcomr\obj\Debug\netcoreapp3.1\testRcomr.csproj.AssemblyReference.cache
